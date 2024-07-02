@@ -5,3 +5,7 @@
 	- Profit gained over time 7 Monthly Sales
 	- Top 5Customers making profit.
 	- Sales By States
+# Key Findings:
+	- The data revealed that Phones, Chairs and Storagde were the top performers in terms of sales generation over the specified period.
+	- The customer count showed a steady increase throughout the four years, indicating a growing customer base.
+	- The analysis provided insights into profit gained over time and monthly sales figures.
